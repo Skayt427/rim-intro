@@ -39,6 +39,8 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    -o-object-position: left center;
+       object-position: left center;
   }
 }
 
